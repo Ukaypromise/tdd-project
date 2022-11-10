@@ -15,5 +15,6 @@ class Solver
 end
 
 solver= Solver.new
-puts solver.factorial(3)
+puts solver.factorial(4)
 puts solver.reverse("Promise")
+puts solver.reverse("Addis")
