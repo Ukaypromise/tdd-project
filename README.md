@@ -1,62 +1,58 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Project Name
-
-> Description the project.
-
+# TDD Project
+>This is a Microverse project to enhance ruby skills by building an application with Test driven development approach.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Ruby
 
-## Live Demo (if available)
+## Live Demo
+- Demo 1: [Not Available Yet!!!]()
 
-[Live Demo Link](https://livedemo.com)
-
-
+## Live Video
+- Video: [Coming soon!!!]()
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To start with this project. First clone this project. 
 
+## Pre-requisites
 
-To get a local copy up and running follow these simple example steps.
+- To be able to work with this projext, you need to have Ruby installed on your local machine
+- Ruby bundler properly set up for installing dependencies. Use the following links to install Ruby on your machine.
 
-### Prerequisites
+  - **For windows** : [Windows Installer](https://rubyinstaller.org/)
 
-### Setup
+  - **For Linux** : [Linux Installer](https://www.ruby-lang.org/en/documentation/installation/)
 
-### Install
+  - **For MacOS** : [MacOS Installer](https://www.ruby-lang.org/en/documentation/installation/)
 
-### Usage
+## Setup
 
-### Run tests
-
-### Deployment
-
-
+- Git clone `https://github.com/Ukaypromise/tdd-project.git`
+- cd into the cloned repo
+- cd `tdd-project`
+- Run `bundle install` to install the required dependencies
+- Run `ruby solver.rb` to start the app
+- run `rubocop .` to check for linters
 
 ## Authors
 
-👤 **Author1**
+### 👤 Addis Tsega
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Aseadd](https://github.com/Aseadd)
+- Twitter: [@AdaTsega](https://twitter.com/AdaTsega)
+- LinkedIn: [Addis Tsega](https://www.linkedin.com/in/addis-tsega/)
 
-👤 **Author2**
+## 👤  Promise Uka 
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Ukaypromise](https://github.com/Ukaypromise)
+- Twitter: [@PromiseUkay](https://twitter.com/PromiseUkay)
+- LinkedIn: [@promiseuka](https://www.linkedin.com/in/promiseuka/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 ## Show your support
 
@@ -65,11 +61,9 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
 - etc
+
 
 ## 📝 License
 
 This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
